@@ -3,7 +3,7 @@
 
 A simple and responsive **weather dashboard** that provides **real-time, location-based weather updates** using the **OpenWeatherMap API** and **Geolocation API**.  
 
-🔗 **Live Demo:** [View on GitHub Pages](https://codewithganeshhh.github.io/Dynamic-Weather-Dashboard/)  
+🔗 **Live Demo:** [View on GitHub Pages](https://codewithdivyaa.github.io/Dynamic-Weather-Dashboard/)  
 
 ---
 
